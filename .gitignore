@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Data (raw JSON, optional)
+data/events/*.json
+data/games/*.json
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Tests / coverage
+.pytest_cache/
+.coverage
+htmlcov/

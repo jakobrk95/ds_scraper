@@ -1,0 +1,45 @@
+Event 9209996: FC Nordsjælland vs Silkeborg
+  MATCH_RESULT:
+    Silkeborg: 4.5
+    Uafgjort: 4.25
+    FC Nordsjælland: 1.67
+  TOTAL_GOALS_OVER/UNDER (2.5):
+    Under: 2.4
+    Over: 1.5
+
+Event 9209998: Viborg vs FC Midtjylland
+  MATCH_RESULT:
+    FC Midtjylland: 1.63
+    Uafgjort: 4.25
+    Viborg: 4.75
+  TOTAL_GOALS_OVER/UNDER (2.5):
+    Under: 2.35
+    Over: 1.53
+
+Event 9209997: Randers vs AGF
+  MATCH_RESULT:
+    Randers: 3.4
+    Uafgjort: 3.65
+    AGF: 2.1
+  TOTAL_GOALS_OVER/UNDER (2.5):
+    Over: 1.73
+    Under: 2.05
+
+Event 9210538: FC København vs Sønderjyske
+  MATCH_RESULT:
+    Sønderjyske: 5.5
+    FC København: 1.57
+    Uafgjort: 4.25
+  TOTAL_GOALS_OVER/UNDER (2.5):
+    Over: 1.65
+    Under: 2.2
+
+Event 9213670: Vejle vs Brøndby IF
+  MATCH_RESULT:
+    Vejle: 4.25
+    Uafgjort: 3.85
+    Brøndby IF: 1.8
+  TOTAL_GOALS_OVER/UNDER (2.5):
+    Over: 1.69
+    Under: 2.1
+
